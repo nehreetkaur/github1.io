@@ -360,8 +360,14 @@ ul li a span:nth-child(4)
     display: none;
   }
     .social-items{
-        margin-left: -17%;
-        margin: auto;
+      display:flex;
+      
+        
+        /*padding: 10px;*/
+        justify-items: flex-start;
+        justify-content: space-evenly;
+        margin-left: -10%;
+        
       
         
     }

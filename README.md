@@ -69,8 +69,8 @@
 
     
   ## LINKS
-  [Git-hub Repository]()
+  [Git-hub Repository](https://github.com/nehreetkaur/github1.io)
 
-  [Git-hub DEPLOYED APPLICATION]()
+  [Git-hub DEPLOYED APPLICATION](https://nehreetkaur.github.io/github1.io/)
    
 

@@ -47,8 +47,9 @@
    [FOR SKEWED DIV STYLE](https://www.w3schools.com/css/tryit.asp?filename=trycss3_transform_skew)
 
    ## SCREEN-SHOT
-   [SCREEN-SHOT1]()
-   [SCREEN-SHOT2]()
+   ![SCREEN-SHOT1](images/1.png)
+   ![SCREEN-SHOT2](images/2.png)
+   ![SCREEN-SHOT3](images/6.png)
 
     
   ## LINKS

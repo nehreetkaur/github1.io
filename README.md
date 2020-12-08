@@ -1,7 +1,8 @@
 # ABOUT 
 
 **Portfolio** created and it's fully **Responsive**.I have **UPDATED** my 
-**Portfolio**.
+**Portfolio**. Also, added **MY-RESUME** in ***SKILLS** SECTION.
+
 
  And I have used the **Flex-box** framework with fully ressponsiveness.
  
